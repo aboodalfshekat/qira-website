@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://qira-levantine.netlify.app/sitemap.xml
